@@ -13,9 +13,8 @@ p {
   color: #4b5563
 }
 
-/* Nav */
-
 /* Navbar */
+
 .navbar {
   position: fixed;
   top: 0; left: 0; right: 0;
@@ -36,7 +35,6 @@ p {
   justify-content: space-between;
 }
 
-/* Brand block */
 .brand {
   display: flex;
   align-items: center;
@@ -59,7 +57,6 @@ p {
   font-size: 1.5rem;
 }
 
-/* Optional: space for page content so it doesn't hide under the fixed nav */
 body { padding-top: 64px; }
 
 /* Grid */
@@ -87,7 +84,6 @@ body { padding-top: 64px; }
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2); /* stronger shadow */
 }
 
-/* Make the image follow the Card's width */
 .Card img {
   width: 100%;
   height: 250px;           /* set a height if you want a uniform card */
