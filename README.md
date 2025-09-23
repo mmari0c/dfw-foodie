@@ -36,6 +36,8 @@ Here's a walkthrough of implemented required features:
 
 [Video Walkthrough](https://imgur.com/a/web-102-project-1-jzLmz6c)
 
+(https://i.imgur.com/IhxQxRF.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
 <!-- Recommended tools:
