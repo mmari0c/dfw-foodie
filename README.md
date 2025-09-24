@@ -2,7 +2,7 @@
 
 Submitted by: Mario Nolasco Cortez
 
-This web app: Displays a collection of cards featuring my favorite places to eat in DFW.
+This web app displays a collection of cards featuring my favorite places to eat in DFW.
 
 Time spent: 5 hours spent in total
 
