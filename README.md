@@ -2,19 +2,6 @@
 
 This web app displays a collection of cards featuring my favorite places to eat in the DFW area.
 
-## Features
-
-- [x] **The app presents a themed collection of DFW food spots**  
-  - [x] A clear header/title introduces the theme of local DFW restaurants  
-
-- [x] **At least 10 unique restaurants are displayed in a responsive card layout**  
-  - [x] A minimum of 10 restaurant cards are shown  
-  - [x] Cards are arranged in an organized, responsive format (such as a grid)  
-  - [x] Each card includes key information about the restaurant (name, description, cuisine, etc.)  
-
-- [x] **Each card includes a link or button for additional information**  
-  - [x] Users can click a button/link to navigate to an external resource related to the restaurant (website, menu, etc.)
-
 ## Video Walkthrough
 
 Here's a walkthrough:
@@ -27,10 +14,6 @@ GIF created with Kap
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Because this was my first React project, I struggled most with getting set up. That included creating the project and figuring out a component structure that made sense.
 
 ## License
 
